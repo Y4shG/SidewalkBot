@@ -1,4 +1,4 @@
-# 🤖 Sidewalk-Following Robot
+# Sidewalk-Following Robot
 
 This project features an autonomous robot designed to follow sidewalks using **OpenCV** for path detection and an **Arduino** for motor control. The robot uses a webcam for visual input, which is processed on a Windows PC to detect and follow paths, then sends movement commands to the Arduino via USB serial. The motors are controlled to steer and drive the robot along the sidewalk.
 
