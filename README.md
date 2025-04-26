@@ -1,6 +1,6 @@
 # Sidewalk-Following Robot
 
-<img src="https://ollama.com/public/blog/nexttime.png" alt="Until next time"/>![image](https://github.com/user-attachments/assets/0228fca0-f0e4-4fbb-8b02-eff8857a47e4)
+<img src="https://ollama.com/public/blog/nexttime.png" alt="Until next time"/>
 
 This project features an autonomous robot designed to follow sidewalks using **OpenCV** for path detection and an **Arduino** for motor control. The robot uses a webcam for visual input, which is processed on a Windows PC to detect and follow paths, then sends movement commands to the Arduino via USB serial. The motors are controlled to steer and drive the robot along the sidewalk.
 
