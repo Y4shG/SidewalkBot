@@ -21,5 +21,4 @@ Compile and run the C++ code:
 bash
 Copy
 Edit
-g++ -o sidewalk_follower main.cpp `pkg-config --cflags --libs opencv4`
-./sidewalk_follower
+g++ -o sidewalk_follower main.cpp `pkg-config --cflags --libs opencv4 ./sidewalk_follower`
