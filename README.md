@@ -20,3 +20,14 @@ This project features an autonomous robot designed to follow sidewalks using **O
    
 Then compile and run the C++ code:
 `bash g++ -o sidewalk_follower main.cpp pkg-config --cflags --libs opencv4 ./sidewalk_follower`
+
+## 📋 Arduino Instructions:
+Requirements: Arduino UNO R3, obv a cable
+
+
+1. **Install IDE** https://docs.arduino.cc/software/ preferrably the GUI client
+
+2. **Upload .ino file** click the upload button dumahh
+
+3. **Start UNO** start your arduino and run the code.
+
