@@ -31,3 +31,11 @@ Requirements: Arduino UNO R3, obv a cable
 
 3. **Start UNO** start your arduino and run the code.
 
+## License 📜
+
+This project is licensed under the [BSD-3-Clause License](LICENSE) - see the [LICENSE](LICENSE) file for details. 📄
+
+## Support 💬
+
+If you have any questions, suggestions, or need assistance, please open an issue to connect! 🤝
+
