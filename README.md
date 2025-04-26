@@ -17,8 +17,6 @@ This project features an autonomous robot designed to follow sidewalks using **O
    ```bash
    git clone https://github.com/yourusername/sidewalk-following-robot.git
    cd sidewalk-following-robot
-Compile and run the C++ code:
-bash
-Copy
-Edit
-g++ -o sidewalk_follower main.cpp `pkg-config --cflags --libs opencv4 ./sidewalk_follower`
+   
+Then compile and run the C++ code:
+`bash g++ -o sidewalk_follower main.cpp pkg-config --cflags --libs opencv4 ./sidewalk_follower`
